@@ -88,12 +88,34 @@ margin-bottom: 30px;
 
 .left-section{
     float: left;
-    width: 45%;
+    
 }
 .right-section{
     float: right;
-    width: 45%;
+    
 }
 .edu{
-    width: 45%;
+    margin-top: 10px;
+    float: left;
 }
+.edu-right{
+    margin-top: 10px;
+    float: right;
+}
+.footer-container{
+    background-color: black;
+    text-align: center;
+   
+}
+.footer-container a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+.footer-container a:hover{
+    color: tomato;
+}
+.footer-p{
+    color: white;
+}
+
